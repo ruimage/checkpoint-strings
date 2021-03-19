@@ -4,7 +4,7 @@ const {
   removePunctuation,
 } = require('../index');
 
-describe('Чекпоинт Algorithms', () => {
+describe('Чекпоинт Strings/Regular expression', () => {
   const text = `
     Я - существо редчайшей из пород.
     В моих владеньях - лето круглый год.
